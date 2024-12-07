@@ -1,6 +1,6 @@
 # DTSA 5511 Introduction to Machine Learning: Deep Learning
 Andrew Simms
-2024-12-06
+2024-12-07
 
 # Overview
 
@@ -16,7 +16,10 @@ The full report can be viewed
 
 GAN models and training are in `./week_5.py`
 
-Report is in `./week_5_report.ipynb` and `./week_5_report.pdf`
+Report source code is in `./quarto/index.qmd`. Rendered documents
+`./week_5_report.ipynb` (image rendering is not working),
+`./week_5_report.pdf` (image rendering works) and the final output can
+be viewed [here](http://www.andrewdsimms.com/using_gans_to_create_art/).
 
 # Running Models
 
