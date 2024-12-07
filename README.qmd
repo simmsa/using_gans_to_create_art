@@ -1,0 +1,36 @@
+---
+title: "DTSA 5511 Introduction to Machine Learning: Deep Learning"
+subtitle: "Week 5: Using GANs to Create Art - Monet"
+author:
+    - name: Andrew Simms
+      affiliation: University of Colorado Boulder
+
+date: today
+
+bibliography: ./quarto/ref.bib
+---
+
+# Overview
+
+This project implements a Generative Adversarial Network (GAN) to transform photographs into artworks in the style of Claude Monet. It was developed as a submission for the Kaggle competition "I'm Something of a Painter Myself."
+
+
+The full report can be viewed [here](http://www.andrewdsimms.com/using_gans_to_create_art/).
+
+
+# Model Code
+
+GAN models and training are in `./week_5.py`
+
+Report is in `./week_5_report.ipynb` and `./week_5_report.pdf`
+
+
+# Running Models
+
+```
+python week_5
+```
+
+# Kaggle Scores
+
+![Kaggle Scores](./quarto/img/kaggle_best_scores.png){#fig-kaggle}
